@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # ruby-on-rails
 # rails-flix
+# rails-flix
